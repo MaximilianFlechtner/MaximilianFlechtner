@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👀 I’m interested in Flutter and PHP
+- 👀 I’m interested in Flutter, Golang, JavaScript and PHP
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaximilianFlechtner)](https://github.com/anuraghazra/github-readme-stats)
 
