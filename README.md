@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 👀 I’m interested in Flutter, Golang, JavaScript and PHP
 
+https://www.linkedin.com/in/maximilian-flechtner-49030922b/
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MaximilianFlechtner)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianFlechtner)](https://github.com/anuraghazra/github-readme-stats)
