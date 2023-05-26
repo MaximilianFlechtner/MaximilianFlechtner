@@ -4,7 +4,7 @@ I'm a software engineer at [Hundeo](https://hundeo.com) 🐶
 
 - 👀 I’m interested in Flutter, Golang, JavaScript and PHP
 - 🐶 I’ve a [dog](https://instagram.com/merle.mini.aussiedoodle?igshid=YmMyMTA2M2Y=)
-- 🍋 I own a media agency [Robocitrus](https://github.com/RoboCitrus)
+- 🍋 I own a media agency [Robocitrus](https://robocitrus.com/)
 
 ### Github Stats
 
